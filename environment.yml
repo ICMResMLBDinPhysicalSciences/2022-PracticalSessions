@@ -21,7 +21,6 @@ dependencies:
 - scipy
 - spacy
 - pytorch>=1.7.0
-- julia>=1.6.3
 - jupyter
 - notebook
 - jupyter_contrib_nbextensions
